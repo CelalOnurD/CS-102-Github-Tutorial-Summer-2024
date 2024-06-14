@@ -1,2 +1,25 @@
 Celal Onur Demirata 22302814 https://github.com/CelalOnurD
 Favourite game Mount & Blade Warband
+commit 7585a91fc5ed918ec78327b5dcd895035cc60b63 (HEAD -> new_information, origin/new_information)
+Author: CelalOnurD <onur.demirata@ug.bilkent.edu.tr>
+Date:   Fri Jun 14 21:00:29 2024 +0300
+
+    Update info.txt
+
+commit 96c498e30a489963ea10eda6617530102402d95b (main)
+Author: CelalOnurD <onur.demirata@ug.bilkent.edu.tr>
+Date:   Fri Jun 14 20:55:58 2024 +0300
+
+    Update info.txt
+
+commit b912cb4eb7e55a438bad83408aca761fed362589
+Author: CelalOnurD <onur.demirata@ug.bilkent.edu.tr>
+Date:   Fri Jun 14 20:51:46 2024 +0300
+
+    Create info.txt
+
+commit 4c5c4d206a65cf179fb7de150449ea3e3b6fdfb4
+Author: CelalOnurD <159252626+CelalOnurD@users.noreply.github.com>
+Date:   Fri Jun 14 20:48:48 2024 +0300
+
+:
